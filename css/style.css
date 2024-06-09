@@ -41,7 +41,7 @@ nav a {
 }
 
 .navbar .logo img {
-  width: 120px; /* Atur lebar gambar sesuai kebutuhan */
+  width: 80px; /* Atur lebar gambar sesuai kebutuhan */
   height: auto; /* Atur tinggi gambar secara otomatis sesuai perubahan lebar */
 }
 
